@@ -22,8 +22,10 @@
   <img align="center" alt="Walter-"Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Walter-heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <img align="center" alt="Walter-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />   
-</div>  
+</div> 
+ 
 ## 
+
 <h2 align="center"> Sociais </h2>
 <h4 align = "center">
 <div>
