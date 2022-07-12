@@ -2,8 +2,8 @@
 <h4 align = "center">
 <div>
     <a href="https://github.com/WALTER-OBS-DEBUG">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WALTER-OBS-DEBUG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WALTER-OBS-DEBUG&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalterJonas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterJonas&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <h2 align="center"> Linguagens e outras Tecnologias </h2>
